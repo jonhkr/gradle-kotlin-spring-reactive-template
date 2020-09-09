@@ -1,4 +1,4 @@
-package template;
+package template
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class App
 
 fun main(args: Array<String>) {
-	runApplication<App>(*args)
+    runApplication<App>(*args)
 }
